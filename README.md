@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonam Wangchuk
-- 👀 I’m interested in Full-stack Development
+- 👀 I’m interested in Full-stack Developer
 - 🌱 I’m currently working as Software Engineer
 
 
